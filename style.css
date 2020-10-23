@@ -1,15 +1,28 @@
 #clock img {
-
+margin: auto 0;
 }
 
 #hour {
+    position: absolute;
+    
 
 }
 
 #minute {
-
+    position: absolute;
 }
 
 #second {
+    position: absolute;
+}
 
+#clock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hands {
+    margin-top:-615px;
 }

@@ -11,3 +11,5 @@ function hourRotation(hand) {
 console.log(secondRotation(2))
 console.log(minuteRotation(1))
 console.log(hourRotation(1))
+
+// blank line
